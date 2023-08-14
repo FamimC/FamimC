@@ -1,4 +1,4 @@
-![MasterHead](https://scholarworks.smith.edu/assets/md5images/a8671593a774957791a91b4770da4ce3.jpg)
+![MasterHead](https://online.monash.edu/app/uploads/2021/06/jellyfish-pink-blue-banner.jpg)
 <h1 align="center">Hi 👋, I'm Famim Chisty</h1>
 <h3 align="center">Third Year Computer Science and Software Engineer student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
